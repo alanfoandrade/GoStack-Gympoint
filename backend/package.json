@@ -2,7 +2,7 @@
   "name": "gympoint",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/alanfoandrade/GymPoint.git",
+  "repository": "https://github.com/alanfoandrade/GoStack-Gympoint.git",
   "author": "alanfoandrade <alanfrank@gec.inatel.br>",
   "license": "MIT",
   "scripts": {
