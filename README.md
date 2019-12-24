@@ -1,7 +1,7 @@
 # GoStack-Gympoint
 Aplicação para academia desenvolvida para avaliação e certificação do curso GoStack Bootcamp da Rocketseat.
 
-Back-end desenvolvido utilizando Node.js utilizando banco de dados Postgres para armazenar os dados dos usuários, planos e matrículas, MongoDb para armazenar os checkins e pedidos de ajuda e Redis + BeQueue para gerenciar a fila de emails de confirmação de matrícula e pedidos de ajuda.
+Back-end desenvolvido utilizando Node.js, com banco de dados Postgres para armazenar os dados dos usuários, planos e matrículas, MongoDb para armazenar os checkins e pedidos de ajuda e Redis + BeQueue para gerenciar a fila de emails de confirmação de matrícula e pedidos de ajuda.
 
 Front-end Web desenvolvido utilizando React JS, Hooks, Arquitetura flux (Redux e Sagas)
 
@@ -20,7 +20,7 @@ Obs: Apenas para ANDROID!
 - MongoDb
 - Redis
 
-- Definir as variáveis de ambiente conforme instruções abaixo
+Definir as variáveis de ambiente conforme instruções abaixo
 
 
 1. `git clone https://github.com/alanfoandrade/GoStack-Gympoint.git`
@@ -60,7 +60,7 @@ A página deverá abrir no seu browser no endereço http://localhost:3000/
 
 ### Mobile ANDROID
 
-- Tendo o emulador já configurado e rodando, ou dispositivo físico configurado
+Tendo o emulador já configurado e rodando, ou dispositivo físico configurado
 
 1. `git clone https://github.com/alanfoandrade/GoStack-Gympoint.git`
 
