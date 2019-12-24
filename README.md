@@ -58,7 +58,9 @@ O servidor deverá iniciar na porta 3333 pré configurada no arquivo .env
 
 A página deverá abrir no seu browser no endereço http://localhost:3000/
 
-Um usuário administrador será gerado, utilize as seguintes informações para logar, login: admin@gympoint.com e senha: 123456
+Um usuário administrador será gerado, utilize as seguintes informações para logar, 
+login: `admin@gympoint.com`
+senha: `123456`
 
 ### Mobile ANDROID
 
