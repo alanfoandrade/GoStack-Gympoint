@@ -45,6 +45,7 @@ Definir as variáveis de ambiente conforme instruções abaixo
 1. `yarn start`
 
 O servidor deverá iniciar na porta 3333 pré configurada no arquivo .env
+Um usuário administrador será gerado, utilize as seguintes informações para logar, login: admin@gympoint.com e senha: 123456
 
 ### Front-end
 
